@@ -1,0 +1,274 @@
+#+Title=Nominal Derivations in Afaan Oromoo (by Tolemariam Fufa)
+#+Conference=ICES21, AAU, Ethiopia
+* Nominal Derivations in Afaan Oromoo
+A Paper Prepared for ICES21,
+AAU,
+Addis Ababa,
+Ethiopia
+* Outline of the presentation
+Introducion
+Agent nominal
+Event nominal
+Result nominal
+Patient nominal
+Conclusion
+* Introduction
+** IN  AO nouns can be  derived from nouns, adjectives and verbs by affixing different  morphemes (Gaaddisaa, 2001; Temesgen, 1985; Tolemariam, 2011).
+(1)
+nam-ummaa
+man-N
+’humanity’
+
+(2)
+gaar-ummaa
+good-N
+’goodness’
+
+In Afaan Orommoo deverbial nominals are also abundant. Nominals can be derived from intr., tr.,CAUS, PASS, and MID bases.
+The paper focuses on four deverbial nominal derivations namely agent, event, result and patient.
+
+The paper is amied to answer the following research questions:
+(1) What criterion do we use to identify agent, event, result and patient nominals?
+(2) From which verb stems are agent, event, result and patient nominals derived?
+(3) Which nominal affixes are employed to derive agent, event, result and patient nominals?
+
+* Agent Nominal
+** Definition:
+
+ Nominals derived from agentive verbs; they describe performers of an action (Huyghe & Wauquier, 2020).
+
+
+Most of the time the concept agent is defined in terms of properties such as animacy, control, volition, instigation, accountability, motion, etc; yet, these properties have been long outlined and debated in the literature.
+
+
+ Agent nominals are described in terms of semantic roles. Semantic roles explain the relationship between verbs and arguments.
+
+
+Agent nominals are assumed to be deverbal nouns that denote the agentive argument of the base verb (Huyghe & Wauquier, 2020, p-189-190).
+
+** AO:
+ Agent nominals in AO are identified by the moropheme -aa and -tuu. The morpheme -aa marks masculine whereas the morpheme -tuu marks feminine or dimunitive.
+ 
+Afaan Oromoo agent nominal derivation involves simple as well as complex morphological processes.
+
+*** Simple
+
+(3)
+hat-tuu
+steal-NF
+‘Thief’
+
+(4)
+sob-tuu/duu
+lie-NF
+‘Liar’
+
+*** Complex
+
+(5)
+bar-siis-aa/tuu
+know-CAUS-NM/F
+‘teacher’
+
+(6)
+gudd-is-aa/tuu
+big-CAUS-NM/F
+’babysitter’
+
+*** More complex
+
+(7a)
+fir-oom-e
+relative-MID-3MSS
+‘...became relative’
+
+(7b)
+fir-oom-s-e
+relative-MID-CAU-3MSS
+‘...made sb become relative’
+
+(7c)
+fir-oom-s-aa/tuu
+relative-MID-CAUS-NM/F
+‘Social bond creator (relativizer?)’
+
+* Event Nominal
+** Definition:
+
+Event nominals are also known as action or process nominal in the literature (Siloni,1997).
+
+Syntactically, Event nominals share thematic relations of the base verb; they inherit the argument structure of the base verb (Uth, 2015; Siloni, 1997).
+
+Semantically, they transpose the meaning of base verbs. Event nominals are “abstract nouns that ‘give a name’ to the situations (i.e.event or states) expressed by their corresponding predicates.”(Uth, 2015).
+
+** In Afaan Oromoo, event nominals are derived by mophemes -aatii, -itii,
+
+(8)
+karaa cuf-aatii isaan-ii
+6road.ABA block-NOM they-POSS
+“Their blockage of a road”
+
+(9)
+muka mur-aatii kaleessa-a
+muka mur-NOM yesterday-POSS
+‘Yesterday’s tree cutting ...’
+
+(10)
+Tulluu yaabb-ittii
+Mountain climb-N
+‘Mountain climbing’
+
+** Complex event nominal derivation
+
+In some cases event nominal overlaps with result nominal as shown in the following example:
+
+(11a)
+Inni biiraa dug-e
+he beer drink-3MSS
+‘he drank beer’
+
+11b)
+Biiraa dugaa-tii
+Beer Drink-N
+‘Drinking beer’
+
+(11c)
+dug-aatii
+(a) event nominal
+(b) referential (it means any kind or drink)
+
+* Result Nominal
+** Definition:
+
+As compared to agent and event nominals, result nominals are said to be non-argument nominals.
+
+Result nominals are not explained in terms of semantic roles and verb-argument relationships.
+
+The meanings of result nominals are not transposed to or from argument structure of the verb from which they have been derived.
+
+
+** AO:
+In Afaan Oromoo, many result nominals employ  affixes such as -umsa and -ina.
+
+-umsa
+
+(12)
+k’or-umsa
+exmine-N
+‘examination’
+*k’or-at-umsa
+*k’or-siis-umsa
+
+(13)
+bar-umsa RESULT
+Know-N
+‘education’
+*bar-siis-umsa
+*bar-at-umsa
+(14)
+Beek-umsa
+Know-N
+‘Knowledge’ Result
+
+** The morpheme -ina is attached to verbs orginated from adjectival roots. 
+
+
+(15)
+gudd-ina
+big-N
+’growth’
+
+(16)
+deer-ina
+long-N
+’length’
+
+(17)
+bal?-ina-
+wide-MID-N
+’width’
+
+
+** The morpheme can be attached to intransitive and transitive verb roots to derive result nominals
+
+(18)
+fiig-insa (fiig-ica)
+run -N
+’run’
+
+(19)
+diig-insa
+destroy-N
+’destruction’
+
+(20)
+k’ot-insa (k’otisa)
+farm-N
+’farm’
+
+* Patient Nominal
+** Definition:
+
+Patient nominal is a person or an entity that is affected by the action described by a verb.
+
+(The causer and the controller of the action is known as agent as we have discussed in section one.)
+
+The following criterion can be considered for patient: undergoes change of state, causally affected by another participant and stationary relative to movement of another participant (Barker & Dowty, 1993).
+
+** AO:
+
+In Afaan Oromoo patient nominals are often derived from middle or passive bases as opposed to agent nominals which are often drived from causative stems (Tolemariam, 2009).
+
+In this language person names clearly show the comparison of agent and patient nominal derivations. .
+
+(17a) AGENT
+Gudd-is-aa/tuu 
+’Guddisaa/One who makes it grow’
+
+(17b) PATIENT
+Gudd-at-aa/tuu
+’Guddataa/One who become big’
+
+(18a) AGENT
+Mul?-is-aa/ee
+'Mul?-is-aa/One who makes it visible’
+
+(18b) PATIENT
+Mul?-at-aa
+"Mul?ataa /One who becomes visible'
+
+Professoion wise we can observe agent-patient contrast nominal derivations.
+
+(19a) AGENT
+hojj-at-iis-aa/hojj-aciis-aa
+‘Employer/Supervisor’
+
+(19b) PATIENT
+hojj-at-aa
+‘worker’
+
+Patient can also be derived from a passive stem.
+(20a) AGENT
+gor-s-aa/tuu
+‘Advisor’
+
+(20b) PATIENT
+gor-s-am-aa/tuu
+‘Advisee’
+
+* Conclusion
+We can conclude that In AO:
+
+(1) Agent, Event, Result and Patient nominals are deverbials.
+
+(2) Derivational affixes such as passive, causative, transitivizer, middle create stems to which agent,event and patient nominal affixes are attached.
+
+(3) Agent, event and patient nominals are explained in terms of semantic roles and verb arguments.
+
+(4) Result nominals by virtue of their inherent referential character avoid verb derivation affixes such as CAUS, MID and PASS.
+
+(5) Result nominal derivation require non-argument deverbial affixes.
+
+(6) In many cases nominal derivation in AO complex and require analyis of derivational affixes of nominals and complex verbs. 
+
+
