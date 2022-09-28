@@ -1,16 +1,23 @@
 #+Title=Nominal Derivations in Afaan Oromoo (by Tolemariam Fufa)
 #+Conference=ICES21, AAU, Ethiopia
 * Nominal Derivations in Afaan Oromoo
+
 A Paper Prepared for ICES21,
 AAU,
 Addis Ababa,
 Ethiopia
 * Outline of the presentation
+
 Introducion
+
 Agent nominal
+
 Event nominal
+
 Result nominal
+
 Patient nominal
+
 Conclusion
 * Introduction
 ** IN  AO nouns can be  derived from nouns, adjectives and verbs by affixing different  morphemes (Gaaddisaa, 2001; Temesgen, 1985; Tolemariam, 2011).
